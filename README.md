@@ -74,6 +74,6 @@ Bu proje açık kaynak topluluğuna katkı sağlamak amacıyla geliştirilmişti
 
 Projeyi daha da geliştirmek için her türlü geri bildirime ve katkıya (Pull Request) açığım. Bir hata bulursanız lütfen "Issues" kısmından bildirmekten çekinmeyin.
 
-* **Geliştirici:** [Adınız Soyadınız]
-* **GitHub:** @[Kullanıcı Adınız]
-* **E-posta:** [E-posta Adresiniz]
+* **Geliştirici:** Uras AKAS | https://urasakas.com
+* **GitHub:** @urasec-labs
+* **E-posta:** urasakas@gmail.com
